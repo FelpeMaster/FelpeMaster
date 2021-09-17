@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelpeMaster
 - 👀 I’m interested in Electronics and computer science
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Big Data & ML
 - 📫 How to reach me ing.felipe.robles@gmail.com
 
 <!---
